@@ -31,5 +31,5 @@ improving some discussion, or writing a new chapter, and then issue
 a pull request to have your changes incorporated into the main repo.
 
 If you have your own book that you would like to add to this bookshelf
-that create an Issue under the `oab_organization` repo requesting that
+that create an Issue under the `about` repo requesting that
 a new repository for your text be created.
